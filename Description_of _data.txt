@@ -1,0 +1,8 @@
+Description
+Exploratory Data Analysis
+
+1. Number of columns
+2. Number of rows
+3. Mean
+4. Mode
+5. Median
